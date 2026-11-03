@@ -4,6 +4,11 @@ Clickable front end prototype of GoodHand, an AI powered headhunting service for
 First market: licensed electricians in Texas, hired by electrical subcontractors building data
 centers.
 
+Live: https://romygreenwald.github.io/goodhand/
+
+Every push to `main` rebuilds and redeploys it through GitHub Actions
+(`.github/workflows/deploy.yml`).
+
 ## Run it
 
 ```bash
